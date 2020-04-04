@@ -20,7 +20,8 @@ Como instalar?
 
 Edite as conexão no /static/php/system/config.php
 Edite as seguintes linhas!
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 Linha 3, 4, 5, 6, 10, 11, 12 , 13
 
 Super simples ^^
